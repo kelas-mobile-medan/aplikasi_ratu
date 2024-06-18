@@ -28,7 +28,7 @@ class StartScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
             Text(
-              'Experience the best shopping experience with CircleStyle. Discover a wide variety of products and enjoy a seamless shopping journey.',
+              'Experience the best shopping experience with Stylish. Discover a wide variety of products and enjoy a seamless shopping journey.',
               style: TextStyle(
                 fontSize: 16,
               ),

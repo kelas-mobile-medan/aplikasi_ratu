@@ -19,7 +19,7 @@ class StartScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Text(
-              'Welcome to CircleStyle',
+              'Welcome to Stylish',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,

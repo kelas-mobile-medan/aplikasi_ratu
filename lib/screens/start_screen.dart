@@ -10,7 +10,7 @@ class StartScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Welcome to CircleStyle'),
+        title: Text('Welcome to Stylish'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
